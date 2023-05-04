@@ -13,7 +13,6 @@
 #     with:
 #       branch: 'master'
 
-
 name: CHANGELOG
 
 on:

@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.5] - 2023-05-04
+### :bug: Bug Fixes
+- [`98d1158`](https://github.com/clouddrove-sandbox/test-azure-virtual-machine/commit/98d1158ebacce6c0b96713dbdc25cf17ab705568) - updated token of nilesh admin *(commit by [@nileshgadgi](https://github.com/nileshgadgi))*
+
+
 ## [1.0.2] - 2023-05-04
 ### :bug: Bug Fixes
 - [`8509216`](https://github.com/clouddrove-sandbox/test-azure-virtual-machine/commit/85092163d89a1c3fad3452e802a3be9fea69bbbe) - update changelog file *(commit by [@nileshgadgi](https://github.com/nileshgadgi))*
@@ -43,3 +48,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.0.5]: https://github.com/clouddrove/terraform-azure-virtual-machine/compare/1.0.4...1.0.5
 
 [1.0.2]: https://github.com/clouddrove-sandbox/test-azure-virtual-machine/compare/1.0.1...1.0.2
+[1.0.5]: https://github.com/clouddrove-sandbox/test-azure-virtual-machine/compare/1.0.4...1.0.5

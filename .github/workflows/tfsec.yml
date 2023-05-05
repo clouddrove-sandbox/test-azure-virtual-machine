@@ -11,4 +11,5 @@ jobs:
     uses: clouddrove-sandbox/azure-action-test/.github/workflows/tfsec.yml@master
     with:
       working_directory: './_example'
+    secrets:
       repo-token: ${{ secrets.NILESH_GITHUB_TOKEN }}
